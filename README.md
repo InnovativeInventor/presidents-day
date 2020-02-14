@@ -8,5 +8,5 @@ Currently, all data has been gathered from reading physical copies of The Choate
 See [`/analysis.ipynb`](analysis.ipynb)
 
 ## Fun fact
-The start date of this project was coincidentally 2020's president's day.
+The start date of this project was coincidentally 2020's president's day (before it was announced!).
 
